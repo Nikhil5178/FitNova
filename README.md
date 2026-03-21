@@ -1,5 +1,8 @@
 # 💪 FitNova – AI Fitness Tracker Web App
 
+Live Demo:
+https://bit.ly/4bD0upM
+
 FitNova is an **AI-powered fitness tracking web application** designed to help users manage workouts, track nutrition, monitor progress, and interact with a smart fitness chatbot.
 
 It combines **modern web technologies with intelligent features** to deliver a personalized fitness experience.
